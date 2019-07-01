@@ -1,0 +1,7 @@
+C:\Users\Lipeng.Ma\source\repos\StartOver\StartOver\obj\Debug\StartOver.csprojAssemblyReference.cache
+C:\Users\Lipeng.Ma\source\repos\StartOver\StartOver\obj\Debug\StartOver.csproj.CoreCompileInputs.cache
+C:\Users\Lipeng.Ma\source\repos\StartOver\StartOver\bin\Debug\StartOver.exe.config
+C:\Users\Lipeng.Ma\source\repos\StartOver\StartOver\bin\Debug\StartOver.exe
+C:\Users\Lipeng.Ma\source\repos\StartOver\StartOver\bin\Debug\StartOver.pdb
+C:\Users\Lipeng.Ma\source\repos\StartOver\StartOver\obj\Debug\StartOver.exe
+C:\Users\Lipeng.Ma\source\repos\StartOver\StartOver\obj\Debug\StartOver.pdb
